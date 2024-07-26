@@ -1,0 +1,1 @@
+# flutter-project-structure-with-reverpod
